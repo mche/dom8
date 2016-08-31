@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Советы дома №8
+title: Совет дома №8
 description: Описание
 keywords: ключевые слова
 ---

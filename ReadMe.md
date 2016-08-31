@@ -1,4 +1,4 @@
-## Совет дома №8](http://sovet.info.tm/dom8).
+## [Совет дома №8](http://sovet.info.tm/dom8).
 
 ---
 
